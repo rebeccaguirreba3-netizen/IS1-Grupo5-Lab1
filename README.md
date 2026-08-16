@@ -127,6 +127,6 @@ En los años 60, las computadoras mejoraron muy rápido, pero los programadores 
 ---
 
 
-**fuente de consulta:** [Comparación entre Desarrollo Tradicional y Ágil - Atlassian](https://www.atlassian.com/es/agile-at-scale/agile-vs-waterfall)
+**fuente de consulta:** [Comparación entre Desarrollo Tradicional y Ágil - Atlassian](https://www.com/es/agile-at-scale/agile-vs-waterfall)
 
 
