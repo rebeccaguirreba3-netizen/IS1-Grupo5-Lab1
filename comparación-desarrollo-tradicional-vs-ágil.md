@@ -34,11 +34,9 @@ En los años 60, las computadoras mejoraron muy rápido, pero los programadores 
 
 ---
 
-## 4. Estructura del Proyecto
+(https://www.atlassian.com/es/agile/-at-scale/agile-vs-waterfall)
 
-* **Nombre del Proyecto:** Sistema de Gestión Colaborativa
-* **Estructura de Carpetas:**
-  ```text
-  ├── src/           # Código del programa
-  ├── docs/          # Documentos e información
-  └── README.md      # Presentación del proyecto
+
+
+
+  
